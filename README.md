@@ -8,7 +8,7 @@ Category-wise and Region-wise Sales
 Key Filters: Date, Region, Category
 Month-over-Month (MoM) growth using Table Calculations
 
-Tools Used
+Tools Used:
 Tableau Public 
 
 Key Features
